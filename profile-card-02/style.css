@@ -83,9 +83,10 @@ body {
 	font-weight: 600;
 }
 
-.details h5 {
+.details h3 {
+	color: rgb(85 85 85 / 90%);
+	font-size: 1rem;
 	font-weight: 500;
-	opacity: 0.8;
 }
 
 .data {
